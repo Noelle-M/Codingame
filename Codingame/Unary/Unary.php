@@ -34,4 +34,3 @@ for($i=0;$i<count($codeBin);$i++){
     }
 }
 echo $solution;
-?>
