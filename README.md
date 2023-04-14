@@ -5,7 +5,7 @@ Ce dépôt contient des solutions aux problèmes de
 langages de programmation. Les solutions sont organisées par 
 langage et par défi pour faciliter la navigation.
 
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/43520762/232011844-95f8646b-0142-459c-bc65-f6e8a02f2b07.png)
 
 ## Contenu du dépôt
 
