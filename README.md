@@ -1,5 +1,8 @@
 # Solutions CodinGame
 
+CodingGame, défis, programmation, algorithmes, PHP, JavaScript, problèmes, jeux, 
+compétitions, apprentissage, entraînement, code, développeur, repo, GitHub
+
 Ce dépôt contient des solutions aux problèmes de 
 [CodinGame.com](https://www.codingame.com/) codées en différents 
 langages de programmation. Les solutions sont organisées par 
@@ -45,11 +48,6 @@ pour chaque défi résolu sur CodinGame.
 ![](https://img.shields.io/badge/Code-Informatique-blue.svg?style=plastic&logo=code)
 ![](https://img.shields.io/badge/Développeur-blue.svg?style=plastic&logo=code)
 ![](https://img.shields.io/badge/Repo-GitHub-blue.svg?style=plastic&logo=github)
-
-<p style="color: transparent; font-size: 1px">
-CodingGame, défis, programmation, algorithmes, PHP, JavaScript, problèmes, jeux, 
-compétitions, apprentissage, entraînement, code, développeur, repo, GitHub
-</p>
 
 <span style="color: #ff69b4">Vos solutions est critiques constructives sont les bienvenues</span>
 
