@@ -53,4 +53,4 @@ compétitions, apprentissage, entraînement, code, développeur, repo, GitHub
 
 <span style="color: #ff69b4">Vos solutions est critiques constructives sont les bienvenues</span>
 
-![](https://img.shields.io/badge/contact-@geminy.com-blue.svg?style=plastic&logo=gmail)
+![](https://img.shields.io/badge/contact-@geminy.com-blue.svg?style=plastic&logo=ionos)
