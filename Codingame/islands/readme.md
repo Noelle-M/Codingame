@@ -1,4 +1,10 @@
 # Islands Solution (Récursivité)
+
+![](https://img.shields.io/badge/Langage-PHP-blue.svg?style=plastic&logo=php)
+
+![68597839e1f1f07 jpg_wh300](https://user-images.githubusercontent.com/43520762/232019792-9d19f1b7-61c6-449c-b06f-288cb72785d9.jpg)
+
+
 Explication en détail chaque étape de la solution NumIslands en PHP, qui permet de compter le nombre d'îlots (représentés par des "1") dans une grille 2D donnée.
 
 ## Classe Solution
