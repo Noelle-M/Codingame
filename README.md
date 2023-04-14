@@ -8,7 +8,7 @@ Ce dépôt contient des solutions aux problèmes de
 langages de programmation. Les solutions sont organisées par 
 langage et par défi pour faciliter la navigation.
 
-![image](https://user-images.githubusercontent.com/43520762/232011844-95f8646b-0142-459c-bc65-f6e8a02f2b07.png)
+![2023-04-14_12h33_39](https://user-images.githubusercontent.com/43520762/232021871-06fd5d66-06b1-438b-8f57-2019c02cef55.png)
 
 ## Contenu du dépôt
 
