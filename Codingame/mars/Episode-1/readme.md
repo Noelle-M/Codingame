@@ -1,5 +1,12 @@
-# Mars Lander - Episode 1 Solution in PHP
-Explication en détail chaque étape de la solution du jeu "Mars Lander - Episode 1" en PHP. Le but du jeu est de faire atterrir en toute sécurité le module d'atterrissage sur la surface de Mars en contrôlant la puissance et l'orientation de ses propulseurs.
+# Mars Lander - Episode 1
+
+![](https://img.shields.io/badge/Langage-PHP-blue.svg?style=plastic&logo=php)
+
+![aménagez-en-parc-sur-la-planète-mars-désert-scénique-bannière-rouge-de-rendu-l-espace-d-127505147](https://user-images.githubusercontent.com/43520762/232020616-9215a492-7d80-4703-beba-f00a89444e89.jpg)
+
+Explication en détail chaque étape de la solution du jeu "Mars Lander - Episode 1".
+
+Le but du jeu est de faire atterrir en toute sécurité le module d'atterrissage sur la surface de Mars en contrôlant la puissance et l'orientation de ses propulseurs.
 
 ## Lecture des entrées
 ### Surface de Mars
