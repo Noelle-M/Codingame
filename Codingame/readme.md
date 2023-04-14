@@ -46,10 +46,11 @@ pour chaque défi résolu sur CodinGame.
 ![](https://img.shields.io/badge/Développeur-blue.svg?style=plastic&logo=code)
 ![](https://img.shields.io/badge/Repo-GitHub-blue.svg?style=plastic&logo=github)
 
-<span style="color: transparent; font-size: 1px">
+<p style="color: transparent; font-size: 1px">
 CodingGame, défis, programmation, algorithmes, PHP, JavaScript, problèmes, jeux, 
 compétitions, apprentissage, entraînement, code, développeur, repo, GitHub
-</span>
+</p>
 
 <span style="color: #ff69b4">Vos solutions est critiques constructives sont les bienvenues</span>
+
 ![](https://img.shields.io/badge/contact-@geminy.com-blue.svg?style=plastic&logo=gmail)
