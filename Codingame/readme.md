@@ -2,8 +2,12 @@
 
 Ce dépôt contient des solutions aux problèmes de 
 [CodinGame.com](https://www.codingame.com/) codées en différents 
-langages de programmation. Les solutions sont organisées par 
+langages de programmation.
+
+Les solutions sont organisées par 
 langage et par défi pour faciliter la navigation.
+
+Actuellement il n'y a que du PHP
 
 ![img.png](img.png)
 
