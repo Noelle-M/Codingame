@@ -1,5 +1,10 @@
 # Explication du code de localisation de défibrillateurs
-Nous allons expliquer pas à pas le code PHP permettant de localiser le défibrillateur 
+
+![](https://img.shields.io/badge/Langage-PHP-blue.svg?style=plastic&logo=php)
+
+![DependableBlueArchaeopteryx-size_restricted](https://user-images.githubusercontent.com/43520762/232018995-3f7a95ae-3d8e-4c3e-98ae-b09ff3cd089a.gif)
+
+Ce code PHP permet de localiser le défibrillateur 
 le plus proche en fonction des coordonnées GPS d'une personne.
 
 ## 1. Lecture des entrées
