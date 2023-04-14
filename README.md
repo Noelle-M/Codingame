@@ -9,7 +9,7 @@ langages de programmation. Les solutions sont organisées par
 langage et par défi pour faciliter la navigation.
 
 ![2023-04-14_12h33_39](https://user-images.githubusercontent.com/43520762/232021871-06fd5d66-06b1-438b-8f57-2019c02cef55.png)
-![Lolote](https://www.codingame.com/profile/4dcf522aafb85f16563c0f0462b8a0921875173)
+[Profile Codingame.com](https://www.codingame.com/profile/4dcf522aafb85f16563c0f0462b8a0921875173)
 
 ## Contenu du dépôt
 
