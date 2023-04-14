@@ -1,5 +1,9 @@
 # Trouver la différence minimale entre les puissances de chevaux
 
+![](https://img.shields.io/badge/Langage-PHP-blue.svg?style=plastic&logo=php)
+
+![FixedSociableGosling-max-1mb](https://user-images.githubusercontent.com/43520762/232017239-a6793d2e-65ec-4fae-8e20-e15e5eaa1e83.gif)
+
 Ce programme trouve la différence minimale entre les puissances de chevaux dans un tableau donné. Il est écrit en PHP et lit les données d'entrée depuis l'entrée standard (STDIN).
 
 ## Fonctionnement du code
