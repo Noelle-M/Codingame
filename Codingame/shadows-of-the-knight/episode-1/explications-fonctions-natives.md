@@ -32,6 +32,7 @@ if ($position !== false) {
     echo "La chaîne '$recherche' n'a pas été trouvée dans '$text'.";
 }
 </pre>
+
 Dans cet exemple, $position vaudra 9, car "comment" se trouve à l'index 9 dans la 
 chaîne $text.
 ----------------------------------------------------------------------------------------
